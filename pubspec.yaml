@@ -11,6 +11,8 @@ dependencies:
   charset_converter:
     git:
       url: https://github.com/sabindaryal/charset_converter.git
+      ref: master # branch name
+      publish_to: none
   esc_pos_utils:
     git:
       url: https://github.com/sabindaryal/esc_pos_utils.git
